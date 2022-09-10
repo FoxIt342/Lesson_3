@@ -1,0 +1,37 @@
+
+h2 {
+   background-color: rgb(201, 116, 85);
+}
+.paragraph1 p {
+   font-family: 'Courier New', Courier, monospace;
+}
+.text {
+   color: rgb(4, 45, 61);
+   font-weight: bold;
+}
+.bottom {
+   background-color: aqua;
+   font-size: large;
+   font-weight: bold;
+}
+
+.title {
+   color: rgb(3, 3, 51);
+}
+#vufku {
+   float: right;
+   width: 20%;
+}
+.text-red {
+   color: red;
+   font-weight: bold;
+}
+.contents ul {
+   color: gray;
+}
+.block > p {
+   color: rgb(3, 56, 3);
+}
+.purple {
+   color: purple;
+}
